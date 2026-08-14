@@ -22,7 +22,7 @@ This shifts Customer Journey from a **"view-only report"** into a tool that supp
 
 Before working with the available data, I researched the e-commerce customer journey and marketing touchpoints to understand the complete customer path independently of data availability.
 
-![Customer Journey Research](./marketing_research/Customer Journey (Marketing Research).png)
+![Customer Journey Research](./marketing_research/Customer_Journey_(Marketing_Research).png)
 
 The research mapped the journey from **Awareness → Consideration → Conversion → Retention & Repurchase**, including potential touchpoints such as search, ads, social media, product pages, cart, checkout, and repurchase.
 
