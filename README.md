@@ -67,7 +67,7 @@ Based on feedback from my manager and team, I identified limitations in the init
 
 The following visualization was used as a **design reference** because it provides a clearer representation of drop-off changes across different stages.
 
-![Customer Journey Visualization Reference](./results/customer-journey-sankey-ref.png)
+![Customer Journey Visualization Reference](./results/customer-journey-sankey-ref.jpg)
 
 **Reference:** [Customer Journey - Sankey Diagram by Kaushalya Punchihewa on Dribbble](https://dribbble.com/shots/25760761-Customer-Journey-Sankey-Diagram)
 
