@@ -75,16 +75,18 @@ The goal of this refinement was to move the visualization from simply showing **
 
 ### Insights & Suggested Actions
 
-The Customer Journey can be used to identify high drop-off stages and investigate potential business causes. Based on the observed journey patterns and e-commerce context, potential actions include:
+The Customer Journey helps identify **where customers drop off**, while the underlying causes require further data analysis and validation.
 
-| Drop-off Stage | Potential Cause | Suggested Action |
-|---|---|---|
-| Reach → Product View | Low content attractiveness, uncompetitive pricing, or ineffective targeting | A/B test thumbnails, review targeting, and optimize the first seconds of video content |
-| Product View → Add to Cart | Product information, reviews, or promotions may not be convincing enough | Improve product content, highlight active vouchers, and address negative reviews |
-| Add to Cart → Order | Unexpected shipping costs, long delivery time, or price comparison | Optimize free-shipping thresholds and remarket abandoned carts |
-| Order → Cancel | Slow fulfillment or inventory issues | Improve order processing and synchronize inventory |
-| Complete → Return | Product mismatch, packaging issues, or incorrect variants | Improve product descriptions, packaging, and fulfillment checks |
-| Complete → Buy Again | Limited retention activities or low repurchase incentives | Offer targeted vouchers and remarketing campaigns |
+For example:
+
+| Drop-off Stage | Observation | Potential Cause | Suggested Next Analysis |
+|---|---|---|---|
+| Reach → Product View | High drop-off from exposure to product view | Content attractiveness, pricing, or targeting | Analyze CTR by campaign, content, audience, and product |
+| Product View → Add to Cart | High drop-off after product views | Product content, reviews, or promotions | Compare conversion by product, promotion, price, and traffic source |
+| Add to Cart → Order | High drop-off before purchase | Shipping cost, delivery time, or price comparison | Analyze checkout, shipping, and order data |
+| Complete → Buy Again | Low repeat purchase | Limited retention activities or product characteristics | Perform cohort and repeat-purchase analysis |
+
+> These potential causes are hypotheses rather than confirmed findings. Further data analysis is required to validate the root causes before recommending specific business actions.
 
 ## Tools
 
