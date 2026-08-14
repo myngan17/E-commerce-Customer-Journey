@@ -1,0 +1,25 @@
+	Source	Dest	Value	Step from	Step to	Rate
+Reach	Shopee	Ads	15000	0	1	75%
+	Shopee	Video	8000	0	1	36%
+	Tiktok Shop	Product Card	9000	0	1	Only Tiktok Shop
+	Tiktok Shop	Shop Tab	4000	0	1	Only Tiktok Shop
+	Tiktok Shop	Video	14000	0	1	64%
+	Lazada	Ads	5000	0	1	25%
+	Shopee	Livestream	6000	0	1	38%
+	Tiktok Shop	Livestream	10000	0	1	63%
+	Shopee	Affiliate	4000	0	1	40%
+	Tiktok Shop	Affiliate	6000	0	1	60%
+Engagement	Ads	Product View	3000	1	2	15%
+	Shop Tab	Product View	2000	1	2	50%
+	Product Card	Product View	7000	1	2	78%
+	Video	Product View	3000	1	2	14%
+	Livestream	Product View	8000	1	2	50%
+	Affiliate	Product View	5000	1	2	50%
+Conversion	Product View	Add to cart	18000	2	3	72%
+	Product View/Add to cart	Order	10000	3	4	36%
+	Order	Complete	7000	4	5	70%
+	Order	Cancel	1500	4	5	15%
+Retention	Complete	Return	500	5	6	7%
+	Complete	Good review	3000	5	6	43%
+	Complete	Bad review	2000	5	6	29%
+	Complere	Buy Again	1000	5	6	14%
