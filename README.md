@@ -73,6 +73,19 @@ The following visualization was used as a **design reference** because it provid
 
 The goal of this refinement was to move the visualization from simply showing **"where customers go"** to helping sellers understand **"where customers are lost and where optimization should be prioritized."**
 
+### Insights & Suggested Actions
+
+The Customer Journey can be used to identify high drop-off stages and investigate potential business causes. Based on the observed journey patterns and e-commerce context, potential actions include:
+
+| Drop-off Stage | Potential Cause | Suggested Action |
+|---|---|---|
+| Reach → Product View | Low content attractiveness, uncompetitive pricing, or ineffective targeting | A/B test thumbnails, review targeting, and optimize the first seconds of video content |
+| Product View → Add to Cart | Product information, reviews, or promotions may not be convincing enough | Improve product content, highlight active vouchers, and address negative reviews |
+| Add to Cart → Order | Unexpected shipping costs, long delivery time, or price comparison | Optimize free-shipping thresholds and remarket abandoned carts |
+| Order → Cancel | Slow fulfillment or inventory issues | Improve order processing and synchronize inventory |
+| Complete → Return | Product mismatch, packaging issues, or incorrect variants | Improve product descriptions, packaging, and fulfillment checks |
+| Complete → Buy Again | Limited retention activities or low repurchase incentives | Offer targeted vouchers and remarketing campaigns |
+
 ## Tools
 
 - PostgreSQL
