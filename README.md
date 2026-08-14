@@ -22,7 +22,7 @@ This shifts Customer Journey from a **"view-only report"** into a tool that supp
 
 Before working with the available data, I researched the e-commerce customer journey and marketing touchpoints to understand the complete customer path independently of data availability.
 
-![Customer Journey Research](./marketing_research/customer-journey-research.png)
+![Customer Journey Research](./marketing_research/Customer Journey (Marketing Research).png)
 
 The research mapped the journey from **Awareness → Consideration → Conversion → Retention & Repurchase**, including potential touchpoints such as search, ads, social media, product pages, cart, checkout, and repurchase.
 
@@ -55,7 +55,7 @@ Data was sourced from the APIs of Shopee, TikTok Shop, and Lazada using API cred
 
 ## Result
 
-![Customer Journey Sankey Diagram](./result/customer-journey-sankey.png)
+![Customer Journey Sankey Diagram](./results/customer-journey-sankey.png)
 
 Interactive Sankey Diagram visualizing customer paths across platforms and touchpoints, with key metrics for identifying drop-off stages.
 
