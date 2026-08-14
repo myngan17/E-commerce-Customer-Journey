@@ -61,6 +61,18 @@ Interactive Sankey Diagram visualizing customer paths across platforms and touch
 
 **[View Interactive Visualization →](https://public.flourish.studio/visualisation/29432295/)**
 
+### Visualization Refinement
+
+Based on feedback from my manager and team, I identified limitations in the initial visualization, particularly in how clearly **drop-off rates** were communicated.
+
+The following visualization was used as a **design reference** because it provides a clearer representation of drop-off changes across different stages.
+
+![Customer Journey Visualization Reference](./results/customer-journey-sankey-ref.png)
+
+**Reference:** [Customer Journey - Sankey Diagram by Kaushalya Punchihewa on Dribbble](https://dribbble.com/shots/25760761-Customer-Journey-Sankey-Diagram)
+
+The goal of this refinement was to move the visualization from simply showing **"where customers go"** to helping sellers understand **"where customers are lost and where optimization should be prioritized."**
+
 ## Tools
 
 - PostgreSQL
