@@ -67,3 +67,9 @@ Interactive Sankey Diagram visualizing customer paths across platforms and touch
 - DBeaver
 - E-commerce APIs
 - Flourish
+
+## References
+
+- [Shopee Open API Documentation](https://open.shopee.com/)
+- [TikTok Shop Partner Center API Documentation](https://partner.tiktokshop.com/docv2/page/get-authorized-category-assets-202405)
+- [Lazada Open Platform API Documentation](https://open.lazada.com/apps/doc/api)
