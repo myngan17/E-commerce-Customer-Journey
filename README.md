@@ -30,7 +30,7 @@ The research mapped the journey from **Awareness → Consideration → Conversio
 
 Data was sourced from the APIs of Shopee, TikTok Shop, and Lazada using API credentials provided by the merchant. The Data Engineering team handled data extraction and storage, while my role focused on reviewing API documentation, identifying relevant attributes, and selecting the data required to construct the Customer Journey.
 
-### Example API & Data Mapping
+### Some API & Data Available for Data Mapping
 
 | Stage | Source | Destination | Value | Description | Data for Value (Metric — API Used) |
 |---|---|---|---:|---|---|
